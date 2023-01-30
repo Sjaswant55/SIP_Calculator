@@ -61,15 +61,8 @@
     background:white;
     border-radius: 10px;
 }
-#total{
-    border: 1px solid;
-}
-#wealth-gained{
-    border: 1px solid;
-}
-#maturity-value{
-    border: 1px solid;
-}
+ 
+
 #investment {
     height: 30px;
     border-radius: 9px;
@@ -100,4 +93,14 @@ img{
    width: 80%;
    /* margin: 0 1%; */
    padding: 0 1%;
+}
+
+.box_change{
+    height: 30px;
+    border-radius: 9px;
+    border: 2px solid #0c0c0c;
+    background-color: #dbe3e0;
+    border-color: #333;
+    font-size: 18px;
+    width: 125px;
 }
